@@ -4,6 +4,9 @@ I am a Computer Science student at the University of Delaware.
 This is my GitHub profile,
 feel free to take a look at the projects and repositories I have created and worked on.
 
+<br />
+My specialty lies primarily with developing web apps using React
+
 <!--
 **pkstoy13/pkstoy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
