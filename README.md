@@ -5,7 +5,11 @@ This is my GitHub profile,
 feel free to take a look at the projects and repositories I have created and worked on.
 
 <br />
-My specialty lies primarily in developing web apps using React, but I would like to learn other Web Development Frameworks/Libraries, such as Svelte, Angular, and Vue.js.
+email: pkstoyanov1@gmail.com
+currently working on:
+-pharaohs
+-time titan
+-portfolio
 
 <!--
 **pkstoy13/pkstoy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
