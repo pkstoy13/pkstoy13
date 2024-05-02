@@ -6,9 +6,13 @@ feel free to take a look at the projects and repositories I have created and wor
 
 <br />
 email: pkstoyanov1@gmail.com
+<br />
 currently working on:
+<br />
 -pharaohs
+<br />
 -time titan
+<br />
 -portfolio
 
 <!--
